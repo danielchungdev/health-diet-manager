@@ -1,12 +1,8 @@
 # Introduction :wave:
-  Hello :wave:, this is Team B's implementation of the **Wellness Manager for SWEN - 383** Fall 2020 RIT Semester (_Corona Time_ :microbe:). <br/> This project was developed with **Java 1.8** and GUI developed with Swing. Implemented **Composite Pattern** and **MVC(Model View Controller Pattern)**. <br/> IDE of choice during the development was [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+  Hello :wave:, this is Team B's implementation of the **Health Diet Manager** Fall 2020(_Corona Time_ :microbe:). <br/> This project was developed with **Java 1.8** and GUI developed with Swing. Implemented **Composite Pattern** and **MVC(Model View Controller Pattern)**. <br/> IDE of choice during the development was [IntelliJ IDEA](https://www.jetbrains.com/idea/).
   
-# Contributors :star_struck:
-  - Amanda Bui
+# Contributor :star_struck:
   - Daniel Chung
-  - Ikemefuna Chukwunyerenwa
-  - Francisco Paliouras
-  - Matthew Russell
 
 # Execution instruction :computer:
   There are **2** ways that the application can be executed. <br/> There's a **CLI(Command Line Interface)** Version and a **GUI(Default)** Version.
@@ -26,4 +22,4 @@
     
     
     
-<p align=center><sub>Made with :heart: by Team B</sub></p>
+<p align=center><sub>Made with :heart: by Daniel Chung</sub></p>
