@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="606c13f4-45b8-4630-ae85-f3aea3c88007" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/foods.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/foods.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kUUJNrl2F85X8s8WGo7dmPZisU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.WellnessManager">
+    <configuration name="WellnessManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WellnessManager" />
+      <module name="term-project-team-b" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="term-project-team-b.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/term_project_team_b_jar/term-project-team-b.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WellnessManager" />
+        <item itemvalue="JAR Application.term-project-team-b.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="606c13f4-45b8-4630-ae85-f3aea3c88007" name="Default Changelist" comment="" />
+      <created>1605754609859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605754609859</updated>
+      <workItem from="1605754624222" duration="77000" />
+      <workItem from="1605754728925" duration="2132000" />
+      <workItem from="1605757170526" duration="1526000" />
+      <workItem from="1605758983248" duration="119000" />
+      <workItem from="1605799599917" duration="2031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605759095579">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="620" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog/1522.1103.1024.745/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1605759095579" />
+    <state x="511" y="333" width="417" height="200" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605799715098">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="511" y="333" width="417" height="200" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.811@0.23.1440.811" timestamp="1605799715098" />
+    <state width="1400" height="94" key="GridCell.Tab.0.bottom" timestamp="1605801531214">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1400" height="94" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1605801531214" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom/1920.428.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605758296976" />
+    <state width="1400" height="94" key="GridCell.Tab.0.center" timestamp="1605801531213">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1400" height="94" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1605801531213" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center/1920.428.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605758296976" />
+    <state width="1400" height="94" key="GridCell.Tab.0.left" timestamp="1605801531213">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1400" height="94" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1605801531213" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left/1920.428.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605758296975" />
+    <state width="1400" height="94" key="GridCell.Tab.0.right" timestamp="1605801531214">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1400" height="94" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1605801531214" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right/1920.428.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605758296976" />
+    <state x="370" y="43" key="SettingsEditor" timestamp="1605759101596">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="370" y="43" key="SettingsEditor/1522.1103.1024.745/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1605759101596" />
+    <state x="1928" y="428" width="1488" height="701" maximized="true" key="dock-window-1" timestamp="1605757470804">
+      <screen x="1920" y="428" width="1600" height="860" />
+    </state>
+    <state x="1928" y="428" width="1488" height="701" maximized="true" key="dock-window-1/1920.428.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605757470804" />
+  </component>
+</project>
